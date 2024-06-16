@@ -1,0 +1,15 @@
+{
+    "bottle": 1.5,
+    "book": 12.99,
+    "laptop": 999.99,
+    "cell phone": 699.99,
+    "chair": 45.0,
+    "apple": 0.8,
+    "banana": 0.5,
+    "pizza": 15.0,
+    "person": "no_price",
+    "cup": "5",
+    "wine glass": "6",
+    "traffic light": "400000",
+    "tvmonitor": "100000"
+}
